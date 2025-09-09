@@ -1,56 +1,58 @@
-# this file contains the social media links and usernames of the author
-# the commented lines are the default social media links supported by the template
-# the socials will be displayed in the order they are defined here
+# This file contains the social media links and usernames for Md Nazmul Islam
+# The socials will be displayed in the order they are defined here
 
-# academia_edu:  your organization and your username Ex. https://organization.academia.edu/UserName
-#  organization: princeton # your organization as appears in the subdomain
-#  username:  AlbertEinstein # your username
-# acm_id: # your dl.acm.org/profile/id
-# blogger_url: # your blogger URL
-# bluesky_url: # your bluesky URL
-# dblp_url: # your DBLP profile url
-# discord_id: # your discord id (18-digit unique numerical identifier)
-email: you@example.com # your email address
-# facebook_id: # your facebook id
-# flickr_id: # your flickr id
-# github_username: # your GitHub user name
-# gitlab_username: # your GitLab user name
-# hal_id: # your HAL id (https://hal.science/)
-# ieee_id: # your ieeexplore.ieee.org/author/id
-inspirehep_id: 1010907 # Inspire HEP author ID
-# instagram_id: # your instagram id
-# kaggle_id: # your kaggle id
-# keybase_username: # your keybase user name
-# lastfm_id: # your lastfm id
-# lattes_id: # your ID on Lattes (Brazilian Lattes CV)
-# leetcode_id: # your LeetCode id
-# linkedin_username: # your LinkedIn user name
-# mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-# medium_username: # your Medium username
-# orcid_id: # your ORCID ID
-# osf_id: # your OSF ID
-# pinterest_id: # your pinterest id
-# publons_id: # your ID on Publons
-# quora_username: # your Quora username
-# research_gate_profile: # your profile on ResearchGate
-rss_icon: true # comment this line to hide the RSS icon
-scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
-# scopus_id: # your profile on Scopus
-# semanticscholar_id: # your Semantic Scholar ID
-# spotify_id: # your spotify id
-# stackoverflow_id: # your stackoverflow id
-# strava_userid: # your strava user id
-# telegram_username: # your Telegram user name
-# unsplash_id: # your unsplash id
-# wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
-# whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-# wikidata_id: # your wikidata id
-# wikipedia_id: # your wikipedia id (Case sensitive)
-# work_url: # work page URL
-# x_username: # your X handle
-# youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
-# zotero_username: # your zotero username
-custom_social: # can be any name here other than the ones already defined above
-  logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
-  title: Custom Social
-  url: https://www.alberteinstein.com/
+email: nazmul.759293@gmail.com # Your primary email address
+
+# Academic Profiles
+scholar_userid: # Your Google Scholar ID (to be added when available)
+inspirehep_id: # Your Inspire HEP ID (to be added when available)
+
+# Professional Networks
+linkedin_username: md-nazmul-islam-b51478265 # Your LinkedIn profile
+github_username: nazmul9293 # Your GitHub username
+
+# Research Profiles
+orcid_id: # Your ORCID ID (to be added when available)
+research_gate_profile: # Your ResearchGate profile (to be added when available)
+
+# Additional contact options
+rss_icon: true # Keep RSS icon enabled for blog feeds
+
+# Custom social links for your specific needs
+journal_publication:
+  logo: "ai ai-journal" # Academicons journal icon
+  title: "Hybrid Advances Publication"
+  url: "https://doi.org/10.1016/j.hybadv.2023.100090"
+
+contact_form:
+  logo: "fa-solid fa-envelope" # Font Awesome envelope icon
+  title: "Contact Form"
+  url: "https://formspree.io/f/xblaknpg"
+
+personal_website:
+  logo: "fa-solid fa-globe" # Font Awesome globe icon
+  title: "Personal Website"
+  url: "https://nazmul9293.github.io"
+
+# Note: The following social platforms are commented out as they may not be relevant
+# for your academic profile. You can uncomment and add your username if you use them.
+
+# academia_edu: 
+#  organization: kuet # Khulna University of Engineering & Technology
+#  username: # Your username if you have an Academia.edu profile
+
+# facebook_id: # Your facebook id
+# twitter_username: # Your X/Twitter handle
+# instagram_id: # Your instagram id
+# youtube_id: # Your youtube channel id
+
+# Research-specific platforms
+# dblp_url: # Your DBLP profile url (if applicable)
+# ieee_id: # Your ieeexplore.ieee.org/author/id (if applicable)
+# scopus_id: # Your profile on Scopus (if applicable)
+# semanticscholar_id: # Your Semantic Scholar ID (if applicable)
+
+# Other platforms
+# kaggle_id: # Your kaggle id
+# stackoverflow_id: # Your stackoverflow id
+# medium_username: # Your Medium username
